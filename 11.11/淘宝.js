@@ -120,3 +120,4 @@ taskList.forEach(task => {
 
 log("任务貌似已经做完了\n如未完成，请重新运行");
 exit();
+
